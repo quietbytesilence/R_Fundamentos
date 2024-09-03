@@ -1,0 +1,7 @@
+ID,Name,Age,Gender,Salary
+1,Alice,30,F,70000
+2,Bob,25,M,55000
+3,Charlie,35,M,80000
+4,Diana,28,F,62000
+5,Edward,40,M,90000
+6,Fiona,32,F,75000
